@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="185" height="72" viewBox="0 0 185 72">
+  <defs>
+    <clipPath id="clip-iPhone_14_Pro_Max_1">
+      <rect width="185" height="72"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_14_Pro_Max_1" data-name="iPhone 14 Pro Max – 1" clip-path="url(#clip-iPhone_14_Pro_Max_1)">
+    <rect width="185" height="72" fill="#dedede"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="93" height="73"/>
+    <text id="A_M" data-name="A&lt;/&gt;M" transform="translate(3 19)" fill="#dedede" font-size="30" font-family="TrebuchetMS-Bold, Trebuchet MS" font-weight="700"><tspan x="0" y="28">A&lt;/&gt;M</tspan></text>
+    <text id="ARRA" transform="translate(93 19)" font-size="30" font-family="TrebuchetMS-Bold, Trebuchet MS" font-weight="700"><tspan x="0" y="28">ARRA</tspan></text>
+  </g>
+</svg>
